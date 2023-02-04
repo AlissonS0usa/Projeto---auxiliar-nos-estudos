@@ -1,0 +1,48 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\bin\Debug\net6.0\bandoDeDados.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\bin\Debug\net6.0\bandoDeDados.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\bin\Debug\net6.0\bandoDeDados.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\bin\Debug\net6.0\MySql.Data.xml
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\obj\Debug\net6.0\bandoDeDados.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\obj\Debug\net6.0\bandoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\obj\Debug\net6.0\bandoDeDados.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\obj\Debug\net6.0\bandoDeDados.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\obj\Debug\net6.0\bandoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\obj\Debug\net6.0\bandoDeDados.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\obj\Debug\net6.0\bandoDeDados.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\obj\Debug\net6.0\refint\bandoDeDados.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\obj\Debug\net6.0\bandoDeDados.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoOK\LPRC4 - 3\bandoDeDados\obj\Debug\net6.0\ref\bandoDeDados.dll
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\bin\Debug\net6.0\bandoDeDados.deps.json
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\bin\Debug\net6.0\bandoDeDados.dll
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\bin\Debug\net6.0\bandoDeDados.pdb
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\bin\Debug\net6.0\MySql.Data.xml
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\obj\Debug\net6.0\bandoDeDados.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\obj\Debug\net6.0\bandoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\obj\Debug\net6.0\bandoDeDados.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\obj\Debug\net6.0\bandoDeDados.AssemblyInfo.cs
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\obj\Debug\net6.0\bandoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\obj\Debug\net6.0\bandoDeDados.csproj.CopyComplete
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\obj\Debug\net6.0\bandoDeDados.dll
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\obj\Debug\net6.0\refint\bandoDeDados.dll
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\obj\Debug\net6.0\bandoDeDados.pdb
+C:\Users\lucas\Downloads\Atv. - ClassLibrary e Conexão com Dados\bandoDeDados\obj\Debug\net6.0\ref\bandoDeDados.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\bin\Debug\net6.0\bandoDeDados.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\bin\Debug\net6.0\bandoDeDados.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\bin\Debug\net6.0\bandoDeDados.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\bin\Debug\net6.0\MySql.Data.xml
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\obj\Debug\net6.0\bandoDeDados.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\obj\Debug\net6.0\bandoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\obj\Debug\net6.0\bandoDeDados.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\obj\Debug\net6.0\bandoDeDados.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\obj\Debug\net6.0\bandoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\obj\Debug\net6.0\bandoDeDados.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\obj\Debug\net6.0\bandoDeDados.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\obj\Debug\net6.0\refint\bandoDeDados.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\obj\Debug\net6.0\bandoDeDados.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\PROJ. FInal\Proj. Final LPRC4\bandoDeDados\obj\Debug\net6.0\ref\bandoDeDados.dll

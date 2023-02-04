@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "bandoDeDados/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/bandoDeDados.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/bandoDeDados.dll": {}
+        }
+      },
+      "Classes-Entidade/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Classes-Entidade.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Classes-Entidade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bandoDeDados/1.0.0": {
+      "type": "project",
+      "path": "../bandoDeDados/bandoDeDados.csproj",
+      "msbuildProject": "../bandoDeDados/bandoDeDados.csproj"
+    },
+    "Classes-Entidade/1.0.0": {
+      "type": "project",
+      "path": "../Classes-Entidade/Classes-Entidade.csproj",
+      "msbuildProject": "../Classes-Entidade/Classes-Entidade.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Classes-Entidade >= 1.0.0",
+      "bandoDeDados >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lucas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\PROJ. FInal\\Proj. Final LPRC4\\easyStudyProjeto\\easyStudyProjeto.csproj",
+      "projectName": "easyStudyProjeto",
+      "projectPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\PROJ. FInal\\Proj. Final LPRC4\\easyStudyProjeto\\easyStudyProjeto.csproj",
+      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\PROJ. FInal\\Proj. Final LPRC4\\easyStudyProjeto\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\PROJ. FInal\\Proj. Final LPRC4\\bandoDeDados\\bandoDeDados.csproj": {
+              "projectPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\PROJ. FInal\\Proj. Final LPRC4\\bandoDeDados\\bandoDeDados.csproj"
+            },
+            "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\PROJ. FInal\\Proj. Final LPRC4\\Classes-Entidade\\Classes-Entidade.csproj": {
+              "projectPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\PROJ. FInal\\Proj. Final LPRC4\\Classes-Entidade\\Classes-Entidade.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
